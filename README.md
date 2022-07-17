@@ -1,3 +1,3 @@
 # git_test
-Foundation test
+My first Github repository!
 Hello Odin!
